@@ -29,7 +29,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   line-height: 1.17;
@@ -45,7 +45,20 @@ a {
   color: #2e2f42;
 }
 
+.header-adress {
+  font-style: normal;
+}
+
 .header-adress-contact {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-adress-number {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -75,6 +88,8 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 /* content */
 
@@ -163,6 +178,9 @@ a {
 }
 
 /* footer */
+.footer {
+  background-color: #2e2f42;
+}
 .foter-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
