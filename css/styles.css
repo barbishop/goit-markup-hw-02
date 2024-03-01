@@ -91,16 +91,12 @@ a {
   cursor: pointer;
 }
 
-.main-text-bt:hover {
-  background-color: #404bbf;
-}
-
+.main-text-bt:hover,
 .main-text-bt:focus {
   background-color: #404bbf;
 }
 
 /* content */
-
 .content-hidden {
   color: transparent;
 }
