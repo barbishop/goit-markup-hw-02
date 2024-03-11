@@ -43,6 +43,11 @@ a {
   color: #2e2f42;
 }
 
+.header-nav-link:hover,
+.header-nav-link:focus {
+  color: #404bbf;
+}
+
 .header-adress {
   font-style: normal;
 }
@@ -56,6 +61,11 @@ a {
   color: #434455;
 }
 
+.header-adress-contact:hover,
+.header-adress-contact:focus {
+  color: #404bbf;
+}
+
 .header-adress-number {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -63,6 +73,11 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.header-adress-number:hover,
+.header-adress-number:focus {
+  color: #404bbf;
 }
 
 /* main */
